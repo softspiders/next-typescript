@@ -1,5 +1,5 @@
 # next-typescript
-Minimal Next in TypeScript
+Minimal NextJS project in TypeScript
 
 ## Direct feature ancestors
 
