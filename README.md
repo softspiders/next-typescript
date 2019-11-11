@@ -11,6 +11,8 @@ Minimal NextJS project in TypeScript
 
 [zeit-now-next-typescript-graphql-apollo](https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
 
+---
+
 ## Direct code ancestors
 
 - [Minimalistic Next.js example](https://github.com/softspider/next.js)
