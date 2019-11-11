@@ -11,7 +11,7 @@ Minimal Next in TypeScript
 
 ## Direct feature descendants
 
-(https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
+[zeit-now-next-typescript-graphql-apollo](https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
 
 ## Direct code ancestors
 
