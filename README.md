@@ -24,7 +24,7 @@ Minimal NextJS project in TypeScript
 
 ## Istallation
 
-Install dependencies
+### Install dependencies
 
 ```sh
 npm i
@@ -34,7 +34,7 @@ or
 yarn
 ```
 
-Install TypeScript as a Node.js package
+### Install TypeScript as a Node.js package
 
 ```sh
 npm i -g typescript
@@ -46,28 +46,10 @@ or
 yarn global add typescript
 ```
 
-## Compilation
+## Running in dev mode
 
 ```sh
-tsc pages/index.tsx
-```
-
-## Next building
-
-```sh
-npx next build
-```
-
-## Running
-
-```sh
-npx next start
-```
-
-## Running
-
-```sh
-npx next start
+npx next dev
 ```
 
 ## Author
