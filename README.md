@@ -1,8 +1,6 @@
 # next-typescript
 Minimal Next in TypeScript
 
-# HelloWorld in TypeScript
-
 ## Direct feature ancestors
 
 - [Minimalistic Next.js example](https://github.com/softspider/next.js)
@@ -15,8 +13,8 @@ Minimal Next in TypeScript
 
 ## Direct code ancestors
 
-[next.js](https://github.com/softspider/next.js)
-[typescript](https://github.com/softspider/typescript)
+- [Minimalistic Next.js example](https://github.com/softspider/next.js)
+- [HelloWorld in TypeScript](https://github.com/softspider/typescript)
 
 
 ## Requirements
@@ -25,6 +23,16 @@ Minimal Next in TypeScript
 * [TypeScript](https://www.typescriptlang.org/)
 
 ## Istallation
+
+Install dependencies
+
+```sh
+npm i
+```
+or
+```sh
+yarn
+```
 
 Install TypeScript as a Node.js package
 
@@ -41,12 +49,26 @@ yarn global add typescript
 ## Compilation
 
 ```sh
-tsc index.ts
+tsc pages/index.tsx
+```
+
+## Next building
+
+```sh
+npx next build
 ```
 
 ## Running
 
-TBD
+```sh
+npx next start
+```
+
+## Running
+
+```sh
+npx next start
+```
 
 ## Author
 
