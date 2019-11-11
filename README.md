@@ -5,13 +5,13 @@ Minimal Next in TypeScript
 
 ## Direct feature ancestors
 
-[next.js](https://github.com/softspider/next.js)
-[typescript](https://github.com/softspider/typescript)
+- [Minimalistic Next.js example](https://github.com/softspider/next.js)
+- [HelloWorld in TypeScript](https://github.com/softspider/typescript)
 
 
 ## Direct feature descendants
 
-https://github.com/softspider/zeit-now-next-typescript-graphql-apollo
+(https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
 
 ## Direct code ancestors
 
