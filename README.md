@@ -11,6 +11,7 @@ Minimalist NextJS project in TypeScript
 
 ## Direct feature descendants
 
+[Next with Jest in TypeScript](https://github.com/softspider/next-jest-typescript)
 [Minimalistic NextJS in TypeScript with Storybook](https://github.com/softspider/next-typescript-storybook)
 [zeit-now-next-typescript-graphql-apollo](https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
 
