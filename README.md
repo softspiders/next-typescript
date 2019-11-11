@@ -1,6 +1,8 @@
 # next-typescript
 Minimal NextJS project in TypeScript
 
+---
+
 ## Direct feature ancestors
 
 - [Minimalistic Next.js example](https://github.com/softspider/next.js)
@@ -18,11 +20,14 @@ Minimal NextJS project in TypeScript
 - [Minimalistic Next.js example](https://github.com/softspider/next.js)
 - [HelloWorld in TypeScript](https://github.com/softspider/typescript)
 
+---
 
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/download/package-manager/)
 * [TypeScript](https://www.typescriptlang.org/)
+
+---
 
 ## Istallation
 
@@ -48,15 +53,21 @@ or
 yarn global add typescript
 ```
 
+---
+
 ## Running in dev mode
 
 ```sh
 npx next dev
 ```
 
+---
+
 ## Author
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+---
 
 ### License
 
