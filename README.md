@@ -1,5 +1,6 @@
 # next-typescript
-Minimalist NextJS project in TypeScript
+
+Minimalistic NextJS project in TypeScript
 
 ---
 
