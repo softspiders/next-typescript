@@ -4,7 +4,7 @@ Minimalistic NextJS project in TypeScript
 
 ## Feature tags
 
-- next
+- nextjs
 - typescript
 
 ---
