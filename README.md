@@ -2,6 +2,11 @@
 
 Minimalistic NextJS project in TypeScript
 
+## Feature tags
+
+- next
+- typescript
+
 ---
 
 ## Direct feature ancestors
