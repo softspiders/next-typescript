@@ -13,7 +13,7 @@ Minimalistic NextJS project in TypeScript
 
 ## Direct ancestors - also by code
 
-- [Minimalistic Next.js example](https://github.com/softspider/next.js)
+- [Minimalistic Next.js example](https://github.com/softspider/nextjs)
 - [HelloWorld in TypeScript](https://github.com/softspider/typescript)
 
 
