@@ -13,15 +13,15 @@ Minimalistic NextJS project in TypeScript
 
 ## Direct ancestors - also by code
 
-- [Minimalistic Next.js example](https://github.com/softspider/nextjs)
-- [HelloWorld in TypeScript](https://github.com/softspider/typescript)
+- [Minimalistic Next.js example](https://github.com/softspiders/nextjs)
+- [HelloWorld in TypeScript](https://github.com/softspiders/typescript)
 
 
 ## Direct descendants
 
-- [Next with Jest in TypeScript](https://github.com/softspider/next-jest-typescript)
-- [Minimalistic NextJS in TypeScript with Storybook](https://github.com/softspider/next-typescript-storybook)
-- [zeit-now-next-typescript-graphql-apollo](https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
+- [Next with Jest in TypeScript](https://github.com/softspiders/next-jest-typescript)
+- [Minimalistic NextJS in TypeScript with Storybook](https://github.com/softspiders/next-typescript-storybook)
+- [zeit-now-next-typescript-graphql-apollo](https://github.com/softspiders/zeit-now-next-typescript-graphql-apollo)
 
 ---
 
