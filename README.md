@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # next-typescript
 
@@ -7,6 +7,8 @@ Minimalistic NextJS project in TypeScript
 ## Feature tags
 
 - nextjs
+- starter
+- template
 - typescript
 
 ---
